@@ -15,7 +15,7 @@
 - **Error Handling:** Errors are reported clearly, such as file reading failures (with error codes and descriptions) and incorrect file formatting.
 
 # Example output:
-| Mean|    3.32 |   12.89 |
-| Sdev|    0.15 |    0.53 |
-| Min |    1.91 |    7.69 |
+| Mean|    3.32 |   12.89 |  
+| Sdev|    0.15 |    0.53 |  
+| Min |    1.91 |    7.69 |  
 | Max |    3.40 |   13.15 |
